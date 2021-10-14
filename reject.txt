@@ -1,1 +1,6 @@
+//肯德基app
+trackingprd.hwwt8.com
+pv.sohu.com
+
+//什么值得买
 .umeng.com
