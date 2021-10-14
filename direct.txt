@@ -4,10 +4,12 @@
 .icloud.com
 .baidu.com
 .taobao.com
-.jd.com
 .alipay.com
 .alicdn.com
 .aliyuncs.com
+.jd.com
+.360buyimg.com
+.kfc.com.cn
 IP-CIDR,158.101.87.153/32
 IP-CIDR,168.138.199.57/32
 IP-CIDR,132.226.236.118/32
