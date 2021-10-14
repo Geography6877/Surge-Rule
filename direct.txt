@@ -3,6 +3,8 @@
 .apple.com
 .icloud.com
 .baidu.com
+.taobao.com
+.jd.com
 IP-CIDR,158.101.87.153/32
 IP-CIDR,168.138.199.57/32
 IP-CIDR,132.226.236.118/32
