@@ -1,3 +1,4 @@
 .googleapis.com
 .googlevideo.com
 .youtube.com
+.pornhub.com
