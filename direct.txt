@@ -28,6 +28,7 @@ IP-CIDR,193.123.250.168/32
 
 //肯德基
 .kfc.com.cn
+.hwwt8.com
 
 //什么值得买
 .smzdm.com
