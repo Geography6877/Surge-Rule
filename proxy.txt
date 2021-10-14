@@ -1,2 +1,7 @@
 .google.com
 .itunes.apple.com
+.voachinese.com
+.rfi.fr
+.epochtimes.com
+.facebook.com
+.twitter.com
