@@ -34,8 +34,8 @@ IP-CIDR,193.123.250.168/32
 .smzdm.com
 .zdmimg.com
 
-//中国区域网站
-.com.cn
+//广发银行app
+.cgbchina.com.cn
 
 265.com
 2mdn.net
