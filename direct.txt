@@ -38,10 +38,6 @@ IP-CIDR,193.123.250.168/32
 //广发银行app
 .cgbchina.com.cn
 
-//中国带cn网站
-DOMAIN-KEYWORD,.cn
-DOMAIN-KEYWORD,.com.cn
-
 265.com
 2mdn.net
 a1.mzstatic.com
