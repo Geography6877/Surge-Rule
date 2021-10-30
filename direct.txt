@@ -3,7 +3,8 @@
 
 //Chris
 .losfa.xyz
-IP-CIDR,158.101.87.153/32
+IP-CIDR,157.245.205.169/32
+IP-CIDR,168.138.194.9/32
 IP-CIDR,168.138.199.57/32
 IP-CIDR,132.226.236.118/32
 IP-CIDR,193.123.250.168/32
@@ -36,6 +37,10 @@ IP-CIDR,193.123.250.168/32
 
 //广发银行app
 .cgbchina.com.cn
+
+//中国带cn网站
+DOMAIN-KEYWORD,.cn
+DOMAIN-KEYWORD,.com.cn
 
 265.com
 2mdn.net
