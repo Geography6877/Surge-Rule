@@ -40,6 +40,7 @@ IP-CIDR,193.123.250.168/32
 
 //backblazeb
 .backblazeb2.com
+USER-AGENT,*AssistantServices*
 
 265.com
 2mdn.net

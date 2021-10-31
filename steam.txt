@@ -2,3 +2,11 @@
 .googlevideo.com
 .youtube.com
 .pornhub.com
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,YouTube*
+youtubei.googleapis.com
+USER-AGENT,mytv*
+.mytvsuper.com
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+.tvb.com
