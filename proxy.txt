@@ -6,3 +6,5 @@
 .epochtimes.com
 .facebook.com
 .twitter.com
+.raw.githubusercontent.com
+.github.com
