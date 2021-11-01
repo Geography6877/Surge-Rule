@@ -2,6 +2,7 @@
 .googlevideo.com
 .youtube.com
 .pornhub.com
+.phncdn.com
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTube*
 youtubei.googleapis.com
