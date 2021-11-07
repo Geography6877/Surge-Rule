@@ -42,6 +42,9 @@ IP-CIDR,193.123.250.168/32
 .backblazeb2.com
 USER-AGENT,*AssistantServices*
 
+//MEKO
+.haituanvip.com
+
 265.com
 2mdn.net
 a1.mzstatic.com
