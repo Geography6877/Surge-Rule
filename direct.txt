@@ -68448,7 +68448,6 @@ xb.dlservice.microsoft.com
 .ipify.org
 .firigames.com
 .unity3d.com
-.doubleclick.net
 .onesoft.com.vn
 .googletagservices.com
 .digitalcertvalidation.com
