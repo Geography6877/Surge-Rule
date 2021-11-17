@@ -1,6 +1,5 @@
 //Chris规则
 .google.com
-.itunes.apple.com
 .voachinese.com
 .rfi.fr
 .epochtimes.com
