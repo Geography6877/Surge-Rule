@@ -11,3 +11,6 @@ USER-AGENT,mytv*
 DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,rthklive
 .tvb.com
+.googletagmanager.com
+.googleusercontent.com
+.ggpht.com

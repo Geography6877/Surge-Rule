@@ -26,6 +26,8 @@ IP-CIDR6,2001:b28:f23f::/48
 .bintray.com
 .twimg.com
 .ytimg.com
+.cdninstagram.com
+.instagram.com
 
 //whatsapp ip规则
 IP-CIDR,66.111.48.0/22

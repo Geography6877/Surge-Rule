@@ -68442,12 +68442,11 @@ xb.dlservice.microsoft.com
 .zzzzmall.com
 .zzzzzz.me
 .bolink.club
-.ggpht.com
 .digicert.com
 .ipify.org
 .firigames.com
 .unity3d.com
-.onesoft.com.vn
+.onesoft.com.vn 
 .googletagservices.com
 .digitalcertvalidation.com
 .jianshenbiji.com
