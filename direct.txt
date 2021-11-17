@@ -13,6 +13,7 @@ IP-CIDR,193.123.250.168/32
 .apple.com
 .icloud.com
 .icloud-content.com
+.cdn-apple.com
 
 //百度
 .baidu.com
@@ -68450,5 +68451,3 @@ xb.dlservice.microsoft.com
 .googletagservices.com
 .digitalcertvalidation.com
 .jianshenbiji.com
-.cdn-apple.com
-.iosapps.itunes.apple.com
