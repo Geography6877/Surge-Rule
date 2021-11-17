@@ -68450,3 +68450,6 @@ xb.dlservice.microsoft.com
 .unity3d.com
 .doubleclick.net
 .onesoft.com.vn
+.googletagservices.com
+.digitalcertvalidation.com
+.jianshenbiji.com
