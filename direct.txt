@@ -68443,7 +68443,6 @@ xb.dlservice.microsoft.com
 .bolink.club
 .ytimg.com
 .ggpht.com
-.twimg.com
 .digicert.com
 .ipify.org
 .firigames.com
