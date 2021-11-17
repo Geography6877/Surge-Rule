@@ -68446,3 +68446,7 @@ xb.dlservice.microsoft.com
 .twimg.com
 .digicert.com
 .ipify.org
+.firigames.com
+.unity3d.com
+.doubleclick.net
+.onesoft.com.vn
