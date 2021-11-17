@@ -68441,7 +68441,6 @@ xb.dlservice.microsoft.com
 .zzzzmall.com
 .zzzzzz.me
 .bolink.club
-.ytimg.com
 .ggpht.com
 .digicert.com
 .ipify.org
