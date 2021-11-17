@@ -68452,4 +68452,4 @@ xb.dlservice.microsoft.com
 .digitalcertvalidation.com
 .jianshenbiji.com
 .cdn-apple.com
-iosapps.itunes.apple.com
+.iosapps.itunes.apple.com
