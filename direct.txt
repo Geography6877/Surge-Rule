@@ -46,6 +46,10 @@ USER-AGENT,*AssistantServices*
 //MEKO
 .haituanvip.com
 
+//TTNODE
+tiantang.mogencloud.com
+easytomessage.com
+
 265.com
 2mdn.net
 a1.mzstatic.com
