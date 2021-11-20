@@ -59,7 +59,6 @@ a4.mzstatic.com
 a5.mzstatic.com
 adcdownload.apple.com
 adcdownload.apple.com.akadns.net
-adservice.google.com
 amp-api-search-edge.apps.apple.com
 amp-api.apps.apple.com
 aod.itunes.apple.com
@@ -86,7 +85,6 @@ cdn-cn1.apple-mapkit.com
 cdn-cn2.apple-mapkit.com
 cdn-cn3.apple-mapkit.com
 cdn-cn4.apple-mapkit.com
-cdn.ampproject.org
 cdn.apple-mapkit.com
 cdn.jsdelivr.net
 cdn.marketplaceimages.windowsphone.com
@@ -152,12 +150,6 @@ g2.gstatic.com
 geetest.datasink.sensorsdata.cn
 gog.qtlglb.com
 gogalaxy.gog-statics.com
-google-analytics.com
-googleadservices.com
-googleanalytics.com
-googlesyndication.com
-googletagmanager.com
-googletagservices.com
 gs-loc-cn.apple.com
 gs-loc.apple.com
 gsp10-ssl-cn.ls.apple.com

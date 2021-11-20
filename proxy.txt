@@ -76,3 +76,11 @@ IP-CIDR,66.111.51.0/24
 .redditstatic.com
 .redditmedia.com
 .redd.it
+.ampproject.org
+.google.com
+.google-analytics.com
+.googleadservices.com
+.googleanalytics.com
+.googlesyndication.com
+.googletagmanager.com
+.googletagservices.com
