@@ -68454,3 +68454,8 @@ xb.dlservice.microsoft.com
 .googletagservices.com
 .digitalcertvalidation.com
 .jianshenbiji.com
+.easecdn.com
+.microsoft.com
+.microsoftonline.com
+.1drv.com
+.flurry.com
