@@ -68459,5 +68459,6 @@ fd.3.cn
 .dcloud.net.cn
 .mcdonalds.com.cn
 .eachub.cn
-.mcd.cn
+api.mcd.cn
+img.mcd.cn
 .qlogo.cn
