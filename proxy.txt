@@ -65,3 +65,14 @@ IP-CIDR,66.111.51.0/24
 .kochava.com
 .mparticle.com
 .emogi.com
+.cloudfront.net
+.twitch.tv
+.twitchcdn.net
+.jtvnw.net
+.ttvnw.net
+.scorecardresearch.com
+.appsflyer.com
+.reddit.com
+.redditstatic.com
+.redditmedia.com
+.redd.it

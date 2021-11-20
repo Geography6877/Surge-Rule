@@ -68459,3 +68459,4 @@ xb.dlservice.microsoft.com
 .microsoftonline.com
 .1drv.com
 .flurry.com
+.aligenie.com
