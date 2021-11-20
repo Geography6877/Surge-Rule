@@ -68453,3 +68453,9 @@ xb.dlservice.microsoft.com
 .flurry.com
 .aligenie.com
 www.kf.cn
+fd.3.cn
+.qpic.cn
+.10086.cn
+.dcloud.net.cn
+.mcdonalds.com.cn
+.eachub.cn
