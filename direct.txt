@@ -63,7 +63,6 @@ amp-api-search-edge.apps.apple.com
 amp-api.apps.apple.com
 aod.itunes.apple.com
 api-edge.apps.apple.com
-app-measurement.com
 appldnld.apple.com
 appldnld.g.aaplimg.com
 apps.mzstatic.com
@@ -68462,3 +68461,4 @@ fd.3.cn
 api.mcd.cn
 img.mcd.cn
 .qlogo.cn
+jojoread.com

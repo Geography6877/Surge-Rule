@@ -84,3 +84,4 @@ IP-CIDR,66.111.51.0/24
 .googlesyndication.com
 .googletagmanager.com
 .googletagservices.com
+app-measurement.com
