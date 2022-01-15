@@ -85,5 +85,5 @@ IP-CIDR,66.111.51.0/24
 .googletagmanager.com
 .googletagservices.com
 app-measurement.com
-fonts.gstatic.com
 fonts.googleapis.com
+.gstatic.com

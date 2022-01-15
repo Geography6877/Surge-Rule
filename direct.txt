@@ -94,7 +94,6 @@ cdn4.apple-mapkit.com
 cds-cdn.v.aaplimg.com
 cds.apple.com
 cds.apple.com.akadns.net
-checkin.gstatic.com
 cl1-cdn.origin-apple.com.akadns.net
 cl1.apple.com
 cl2-cn.apple.com
@@ -118,11 +117,9 @@ cn.windowssearch.com
 communities.apple.com
 configuration.apple.com
 configuration.apple.com.akadns.net
-connectivitycheck.gstatic.com
 corp.google.com
 crl.pki.goog
 csi-china.l.google.com
-csi.gstatic.com
 cstat.apple.com
 ctldl.windowsupdate.com
 dd-cdn.origin-apple.com.akadns.net
@@ -142,8 +139,6 @@ emoi-cncdn.bing.com
 fides-pol.apple.com
 firebase-settings.crashlytics.com
 fs.microsoft.com
-g1.gstatic.com
-g2.gstatic.com
 geetest.datasink.sensorsdata.cn
 gog.qtlglb.com
 gogalaxy.gog-statics.com
@@ -269,7 +264,6 @@ slupdate.dlservice.microsoft.com
 sp.itunes.apple.com
 ss.bjmu.edu.cn
 ssl-google-analytics.l.google.com
-ssl.gstatic.com
 static-login.gog-statics.com
 stocks-sparkline-lb.apple.com.akadns.net
 stocks-sparkline.apple.com
@@ -317,7 +311,6 @@ www-googletagmanager.l.google.com
 www.apple.com
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
-www.gstatic.com
 www.microsoft.com
 www.recaptcha.net
 www4-static.gog-statics.com
@@ -68459,4 +68452,6 @@ fd.3.cn
 api.mcd.cn
 img.mcd.cn
 .qlogo.cn
-jojoread.com
+.jojoread.com
+.optimix.asia
+.optaim.com
