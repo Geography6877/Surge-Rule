@@ -2,6 +2,7 @@
 .qq.com
 
 //Chris
+.gov.cn
 .losfa.xyz
 157.245.205.169
 168.138.194.9
