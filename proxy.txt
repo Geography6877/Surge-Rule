@@ -37,7 +37,6 @@
 .cryptocompare.com
 .ipfs.cf-ipfs.com
 .lbry.com
-.lencr.org
 .odysee.com
 .mymonero.com
 .paypalobjects.com

@@ -14,6 +14,14 @@
 .gov.cn
 .gov.com.cn
 
+//PILLOW
+.intercom.io
+.onesignal.com
+.lencr.org
+.revenuecat.com
+.sentry.io
+
+
 //百度
 .baidu.com
 
