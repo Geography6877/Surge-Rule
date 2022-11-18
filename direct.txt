@@ -1,7 +1,7 @@
 //腾讯
 .qq.com
 //Chris
-.gov.cn
+
 .losfa.xyz
 157.245.205.169
 168.138.194.9
@@ -13,6 +13,10 @@
 .yxp8.cn
 .tiptime-api.com
 .gdoil.cn
+.gov.cn
+.gov.com.cn
+.com.cn
+.cn
 
 //百度
 .baidu.com
