@@ -1,11 +1,5 @@
 //Chris规则
 
-//apple
-.apple.com
-.icloud.com
-.icloud-content.com
-.cdn-apple.com
-
 .google.com
 .voachinese.com
 .rfi.fr
