@@ -1,5 +1,6 @@
 //Chris规则
 
+.mozilla.com
 .google.com
 .voachinese.com
 .rfi.fr
