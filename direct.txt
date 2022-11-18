@@ -10,6 +10,10 @@
 193.123.250.168
 .andfx.cn
 .andfx.net
+.yxp8.cn
+.tiptime-api.com
+.gdoil.cn
+
 //百度
 .baidu.com
 //阿里
