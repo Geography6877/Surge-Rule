@@ -13,6 +13,7 @@
 .yxp8.cn
 .tiptime-api.com
 .gdoil.cn
+.gdbs.gov.cn
 .gov.cn
 .gov.com.cn
 .com.cn
