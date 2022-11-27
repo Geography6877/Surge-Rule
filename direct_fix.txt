@@ -1,2 +1,3 @@
 .losfa.xyz
 132.226.236.118/32
+api.onesignal.com

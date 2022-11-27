@@ -1,2 +1,5 @@
 .google.com
 .twitter.com
+.proxy.safebrowsing.apple
+.backblazeb2.com
+.safebrowsing.appleproxy-safebrowsing.googleapis.com
